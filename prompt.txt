@@ -1,0 +1,56 @@
+- Cancellation requests work.
+- Admin login works.
+- Admin dashboard works.
+- Appointment management works.
+- Doctor management works.
+- Service management works.
+- Eyewear catalogue works.
+- Product enquiry works.
+- Contact form works.
+- Google Maps displays correctly.
+- WhatsApp links work.
+- Telegram links work.
+- Chatbot works.
+- Gemini integration works when configured.
+- FAQ fallback works.
+- Email notifications work when authorized.
+- Mobile responsiveness works.
+- No online payment is requested.
+- Payment-after-treatment information is visible.
+- No critical JavaScript errors exist.
+- No backend functions are missing.
+
+Clearly distinguish between features that have been implemented and integrations that still require real clinic credentials or configuration.
+
+---
+
+# 30. FINAL INSTRUCTION
+
+I want a premium, fully functional, professional eye clinic website and appointment management system.
+
+Use the uploaded reference image as the visual inspiration.
+
+Prioritize:
+
+1. Excellent visual design.
+2. Smooth animations.
+3. Complete Arabic and English support.
+4. Reliable appointment booking.
+5. Google Sheets integration.
+6. Secure administrator dashboard.
+7. WhatsApp and Telegram integration.
+8. Functional AI chatbot.
+9. Eyewear catalogue.
+10. Responsive mobile experience.
+
+The final result must feel like a real commercial eye clinic website, not a student project.
+
+START BY GENERATING THE COMPLETE index.html FILE, THEN GENERATE THE COMPLETE code.gs FILE.
+
+After the two files, provide the installation and deployment instructions.
+
+Do not ask me to choose technologies or frameworks because the technology stack is already specified.
+
+For missing clinic-specific information, use clearly marked configuration placeholders rather than inventing real business details.
+
+Make sure all functionality works within the limitations of Google Apps Script and Google Sheets.
